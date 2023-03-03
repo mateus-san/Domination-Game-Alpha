@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/21d2f11f-3d87-4eda-9869-a9cc518d31ee/edit",
+  "option_operagx_game_name": "Domination Solar Centaury",
+  "option_operagx_guid": "21d2f11f-3d87-4eda-9869-a9cc518d31ee",
+  "option_operagx_internalShareUrl": "https://gx.games/games/rb34x7/domination-solar-centaury/tracks/1e615613-59d1-4c8d-97df-64037f3dc814/",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "0.0.0.5",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "7ba30b60-da57-4c3c-810f-72691069ac1a",
+  "option_operagx_team_name": "Scopo inc Studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.4",
+}
